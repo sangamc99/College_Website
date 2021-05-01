@@ -1,0 +1,86 @@
+body{
+	font-size: 16px;
+	color:#21c3f3f2;
+	background-color:  #61122f;
+}
+#header-nav{
+	background-color: #f6b319;
+}
+*{
+	box-sizing: border-box;
+}
+img{
+	background: no-repeat;
+	width: 10%;
+	height: 250%;
+}
+h1{
+	font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 140%;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  line-height: .75;
+}
+.navbar-header{
+	margin-left: 10px;
+	padding-left: 5px;
+	margin-bottom: 50px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+#phone-number{
+	margin-top: 10px;
+}
+.row{
+	width: 100%;
+}
+#call{
+	width: 10%;
+	height: 5%;
+}
+h3{
+	color: #3c763d
+}
+#row1{
+	width: 20%;
+	left: 100px;
+	background-color: #FFEB3B;
+	border-bottom: 3px solid green;
+}
+#row2{
+	width: 60%;
+	left: 100px;
+}
+#infrastructure{
+	margin-bottom: 5px;
+	border-bottom: 2px solid green;
+}
+#lab{
+	margin-bottom: 5px;
+	border-bottom: 2px solid green;
+}
+#library{
+	margin-bottom: 5px;
+	border-bottom: 2px solid green;
+}
+h3{
+	color: #21c3f3f2;
+	margin-bottom: 5px;
+	border-bottom: 2px solid green;
+}
